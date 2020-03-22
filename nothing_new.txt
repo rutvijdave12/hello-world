@@ -3,3 +3,7 @@ Welcome!
 This is just a test file,nothing new.
 
 I am adding a new line.
+
+Thank you!
+Goodbye.
+
