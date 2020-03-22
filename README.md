@@ -1,2 +1,5 @@
 # hello-world
-A trial repository
+
+This is a trial repository for learning purpose.
+I am writing this to test the commit function.
+
